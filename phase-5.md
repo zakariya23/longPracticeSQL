@@ -9,14 +9,6 @@ by executing it in the terminal:
 sqlite3 db.sqlite ".read phase-5.sql"
 ```
 
-## Set up
-
-Run the following transition SQL file from Phase 4 to Phase 5 **ONLY ONCE**.
-
-```shell
-sqlite3 db.sqlite ".read phase-5-prep.sql"
-```
-
 ## Owner's last name containing "r"
 
 Find the first owner that has a last name containing the lowercase letter "r".
