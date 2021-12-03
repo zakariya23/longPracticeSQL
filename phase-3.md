@@ -7,7 +7,7 @@ Write your queries in `sql-practice/phase-3.sql` file. You can run the file by
 executing it in the terminal:
 
 ```shell
-sqlite3 db.sqlite ".read phase-3.sql"
+sqlite3 practice.db ".read phase-3.sql"
 ```
 
 ## Find Hermione's cats

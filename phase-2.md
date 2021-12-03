@@ -46,14 +46,14 @@ Use the database schema above to create all the tables in the
 
 At the bottom of the file, you will see some seed data for all the tables.
 
-Once you are finished, add it to a database using SQLite3 called `db.sqlite`
+Once you are finished, add it to a database using SQLite3 called `practice.db`
 
 You can run the file by executing it in the terminal:
 
 ```shell
-sqlite3 db.sqlite ".read phase-2.sql"
+sqlite3 practice.db ".read phase-2.sql"
 ```
 
-Examine the tables created in the created database, `sql-practice/db.sqlite`.
+Examine the tables created in the created database, `sql-practice/practice.db`.
 You should see all the tables and columns created correspond to the database
 schema above.

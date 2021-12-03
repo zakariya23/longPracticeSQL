@@ -6,7 +6,7 @@ Write your SQL queries in `sql-practice/phase-5.sql` file. You can run the file
 by executing it in the terminal:
 
 ```shell
-sqlite3 db.sqlite ".read phase-5.sql"
+sqlite3 practice.db ".read phase-5.sql"
 ```
 
 ## Owner's last name containing "r"

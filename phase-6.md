@@ -6,7 +6,7 @@ Write your SQL commands in `sql-practice/phase-6.sql` file. You can run the file
 by executing it in the terminal:
 
 ```shell
-sqlite3 db.sqlite ".read phase-6.sql"
+sqlite3 practice.db ".read phase-6.sql"
 ```
 
 ## Change the name of a toy

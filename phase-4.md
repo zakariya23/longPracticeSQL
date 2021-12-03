@@ -7,7 +7,7 @@ Write your SQL commands in `sql-practice/phase-4.sql` file. You can run the file
 executing it in the terminal:
 
 ```shell
-sqlite3 db.sqlite ".read phase-4.sql"
+sqlite3 practice.db ".read phase-4.sql"
 ```
 
 ## Refactor Database Schema
