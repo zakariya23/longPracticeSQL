@@ -10,5 +10,5 @@
 -- Find the first and last names of the owner whose cats are born after the year 2015
 -- Your code here
 
--- Find names of the cats whose owners are both George Beatty and Melynda Abshire
+-- Find names of the cats whose owners are both George Beatty and Melynda Abshire, or just George Beatty, or just Melynda Abshire
 -- Your code here

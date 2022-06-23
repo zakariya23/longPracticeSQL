@@ -47,7 +47,8 @@ match what you expected?
 
 ## Names of the cats for two owners
 
-Find names of the cats whose owners are both George Beatty and Melynda Abshire.
+Find names of the cats whose owners are both George Beatty and Melynda Abshire,
+or just George Beatty, or just Melynda Abshire.
 **You must do this in one query.** If you have trouble doing it in one query,
 try doing it in multiple and then refactor to just one query.
 
