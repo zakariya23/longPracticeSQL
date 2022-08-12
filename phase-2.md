@@ -26,8 +26,8 @@ From phase 1, your database schema should look like the following:
 
 | column   | type    | constraints                       |
 | -------- | ------- | --------------------------------- |
-| cat_id   | INTEGER | FOREIGN KEY REFERENCES owners(id) |
-| owner_id | INTEGER | FOREIGN KEY REFERENCES cats(id)   |
+| cat_id   | INTEGER | FOREIGN KEY REFERENCES cats(id) |
+| owner_id | INTEGER | FOREIGN KEY REFERENCES owners(id)   |
 
 `toys` Table:
 
